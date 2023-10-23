@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(223, 223, 223);
+    font-size: 18px;
+    font-family: 'Quicksand', sans-serif;
+    background-size: cover;
+    
+}
+.btn-bg{
+    background-color: #31E3C9;
+}
+.container{
+    padding-top: 7rem;
+}
